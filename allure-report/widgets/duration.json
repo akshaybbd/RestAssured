@@ -1,0 +1,41 @@
+[ {
+  "uid" : "694402b84f4a03df",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1651037977912,
+    "stop" : 1651037978307,
+    "duration" : 395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d26c7a33a82b41fc",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1651037977449,
+    "stop" : 1651037977905,
+    "duration" : 456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca1eb54ee57b44ed",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1651037977099,
+    "stop" : 1651037977436,
+    "duration" : 337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b020ee0ddb9c6061",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1651037973565,
+    "stop" : 1651037976918,
+    "duration" : 3353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

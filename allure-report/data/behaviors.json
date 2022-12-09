@@ -1,0 +1,73 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "b020ee0ddb9c6061",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1651037973565,
+      "stop" : 1651037976918,
+      "duration" : 3353
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "\"As a user I want handle Delete request\"", "\"Optional[Delete request handle]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "ca1eb54ee57b44ed",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1651037977099,
+      "stop" : 1651037977436,
+      "duration" : 337
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "\"As a user I want handle get request\"", "\"Optional[get request handle]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "d26c7a33a82b41fc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1651037977449,
+      "stop" : 1651037977905,
+      "duration" : 456
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "\"As a user I want handle Post request\"", "\"Optional[Post request handle]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "694402b84f4a03df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1651037977912,
+      "stop" : 1651037978307,
+      "duration" : 395
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "\"As a user I want handle Put request\"", "\"Optional[Put request handle]\"" ]
+  } ]
+}

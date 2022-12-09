@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 27 11:09:37 IST 2022","Wed Apr 27 11:09:38 IST 2022","395","Suite","Rest API Testing Framework","com.RestAssuredFramework.TestRunner.RunnerClass","com.RestAssuredFramework.TestRunner.RunnerClass","runScenario","Runs Cucumber Scenarios",""
+"passed","Wed Apr 27 11:09:37 IST 2022","Wed Apr 27 11:09:37 IST 2022","456","Suite","Rest API Testing Framework","com.RestAssuredFramework.TestRunner.RunnerClass","com.RestAssuredFramework.TestRunner.RunnerClass","runScenario","Runs Cucumber Scenarios",""
+"passed","Wed Apr 27 11:09:37 IST 2022","Wed Apr 27 11:09:37 IST 2022","337","Suite","Rest API Testing Framework","com.RestAssuredFramework.TestRunner.RunnerClass","com.RestAssuredFramework.TestRunner.RunnerClass","runScenario","Runs Cucumber Scenarios",""
+"passed","Wed Apr 27 11:09:33 IST 2022","Wed Apr 27 11:09:36 IST 2022","3353","Suite","Rest API Testing Framework","com.RestAssuredFramework.TestRunner.RunnerClass","com.RestAssuredFramework.TestRunner.RunnerClass","runScenario","Runs Cucumber Scenarios",""
